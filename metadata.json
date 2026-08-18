@@ -1,0 +1,6 @@
+{
+  "name": "សាលាបឋមសិក្សាសៀងណាំសណ្ដាន់ - Siem Nam Sandan Primary School",
+  "description": "គេហទំព័រផ្លូវការសាលាបឋមសិក្សាសៀងណាំសណ្ដាន់ ជាមួយផ្ទាំងរូបភាពស្លាយបែនណឺ បទបង្ហាញកម្មវិធីសិក្សា ព័ត៌មាន និងសកម្មភាពសិស្សានុសិស្ស",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
